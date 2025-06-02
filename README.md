@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FrimpsManu
 - 👀 I’m interested in Data Science & Analytics, ML/AL, SWE, and Mathematics
 - 🌱 I’m currently learning ML (Supervised learning)
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: www.linkedin.com/in/augustinefrimp
   
 
